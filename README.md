@@ -5,10 +5,10 @@
 * Currently github contains three repositorys from my classes, along with an independent project.
 
 ### Python_Coding
-[Python-Coding](../lis4369)
+[Python_Coding](https://github.com/WizzyHarry/Python-Coding)
 
 ### Machine_Learning
-[machine learning](../lis4930)
+[machine learning](https://github.com/WizzyHarry/Machine_Learning)
 
 
 <!--
