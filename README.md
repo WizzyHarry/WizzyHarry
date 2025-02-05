@@ -2,13 +2,20 @@
 
 #### Github details
 
-* Currently github contains three repositorys from my classes, along with an independent project.
+* Various classes taken during undergraudate IT program at Florida State.
+* Racing Analysis: Is there a better driver than the winner?
 
-### Python_Coding
-[Python_Coding](https://github.com/WizzyHarry/Python-Coding)
+### Python Coding
+[python_coding](https://github.com/WizzyHarry/Python-Coding)
 
-### Machine_Learning
-[machine learning](https://github.com/WizzyHarry/Machine_Learning)
+### Machine Learning
+[machine_learning](https://github.com/WizzyHarry/Machine_Learning)
+
+### SQL & Databases
+[database_management](https://github.com/WizzyHarry/database_management.git)
+
+### Formula 1 Racing Analysis
+* Repository will be added shortly
 
 
 <!--
