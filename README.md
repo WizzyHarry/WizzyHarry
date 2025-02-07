@@ -15,7 +15,7 @@
 [database_management](https://github.com/WizzyHarry/database_management.git)
 
 ### Formula 1 Racing Analysis
-* Repository will be added shortly
+[data_analysis](https://github.com/WizzyHarry/f1_racing_analysis.git)
 
 
 <!--
